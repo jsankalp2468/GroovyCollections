@@ -100,11 +100,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyClass20.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyClass20.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/Q20/MyClass20.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="126">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyClass21.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/Q21/MyClass21.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="110" lean-forward="false" selection-start-line="9" selection-start-column="110" selection-end-line="9" selection-end-column="110" />
               <folding />
             </state>
           </provider>
@@ -436,6 +446,7 @@
         <option value="$PROJECT_DIR$/src/main/groovy/Q18/MyClass18.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/Q19/MyClass19.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/Q20/MyClass20.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/Q21/MyClass21.groovy" />
       </list>
     </option>
   </component>
@@ -527,31 +538,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyClass20">
+  <component name="RunManager" selected="Application.MyClass21">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="MyClass16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Q16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Q16.MyClass16" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GroovyCollectionsExercise_main" />
-      <envs />
     </configuration>
     <configuration name="MyClass17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -618,6 +610,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Q20.MyClass20" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GroovyCollectionsExercise_main" />
+      <envs />
+    </configuration>
+    <configuration name="MyClass21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Q21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Q21.MyClass21" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -704,19 +715,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MyClass16" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MyClass17" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MyClass18" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MyClass19" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyClass20" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MyClass17" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyClass18" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MyClass19" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyClass20" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyClass21" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyClass20" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MyClass19" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MyClass18" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MyClass17" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MyClass16" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyClass21" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyClass20" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MyClass19" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyClass18" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MyClass17" />
       </list>
     </recent_temporary>
   </component>
@@ -733,12 +744,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522057600812</updated>
-      <workItem from="1522057606330" duration="4032000" />
+      <workItem from="1522057606330" duration="4499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4032000" />
+    <option name="totallyTimeSpent" value="4499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -942,8 +953,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/Q20/MyClass20.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/Q21/MyClass21.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="110" lean-forward="false" selection-start-line="9" selection-start-column="110" selection-end-line="9" selection-end-column="110" />
           <folding />
         </state>
       </provider>
